@@ -4,3 +4,7 @@ def pick_a():
     playing = 2
 
     pick = play + playing
+    playjuck = pick - playing
+    print(playjuck)
+
+pick_a()
